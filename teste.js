@@ -1,0 +1,1 @@
+console.log("aaaaaa ola caralho de mundoooo")
